@@ -1,0 +1,46 @@
+
+
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+}
+
+h1 {
+  color: #000;
+  font-size: 100px;
+  margin: 0;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 25px;
+  margin: 0;
+  color: #556581;
+}  
+
+button {
+  background: transparent;
+  border: 2px solid transparent;
+  text-align: center;
+  font-size: 20px;
+  border-radius: 15px;
+  padding: 10px 25px;
+  cursor: pointer;
+  margin: 0 10px;
+
+}
+
+.Minus {
+  background-color: red;
+  color: #fff;
+  border: 1px solid transparent;
+}
+
+.Plus {
+  background-color: teal;
+  color: #fff;
+  border: 1px solid transparent;
+}  
